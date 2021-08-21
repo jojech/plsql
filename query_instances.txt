@@ -1,0 +1,29 @@
+
+Object ID Name                 Description                                      
+--------- -------------------- ----------------------------------------         
+     1001                      [1001][Man][Boromir][Men]                        
+     1002                      [1002][Man][Faramir][Men]                        
+     1003                      [1003][Hobbit][Bilbo][Hobbits]                   
+     1004                      [1004][Hobbit][Frodo][Hobbits]                   
+     1005                      [1005][Hobbit][Merry][Hobbits]                   
+     1006                      [1006][Hobbit][Pippin][Hobbits]                  
+     1007                      [1007][Hobbit][Samwise][Hobbits]                 
+     1008                      [1008][Dwarf][Gimli][Dwarves]                    
+     1009                      [1009][Elf][Feanor][Elves][Noldor]               
+     1010                      [1010][Elf][Tauriel][Elves][Silvan]              
+     1011                      [1011][Elf][Earwen][Elves][Teleri]               
+     1012                      [1012][Elf][Celeborn][Elves][Teleri]             
+     1013                      [1013][Elf][Thranduil][Elves][Sindar]            
+     1014                      [1014][Elf][Legolas][Elves][Sindar]              
+     1015                      [1015][Orc][Azog the Defiler][Orcs]              
+     1016                      [1016][Orc][Bolg][Orcs]                          
+     1017                      [1017][Maia][Gandalf the Grey][Maiar]            
+     1018                      [1018][Maia][Radagast the Brown][Maiar]          
+     1019                      [1019][Maia][Saruman the White][Maiar]           
+     1020                      [1020][Goblin][The Great Goblin][Goblins         
+                               ]                                                
+                                                                                
+     1021                      [1021][Man][Aragorn][Men]                        
+
+21 rows selected.
+
